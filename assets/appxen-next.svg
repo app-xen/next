@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 307 307"
+   version="1.1"
+   sodipodi:docname="Artboard 1.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview36"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.732899"
+     inkscape:cx="116.177"
+     inkscape:cy="153.68296"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs10">
+    <style
+       id="style2">
+      .cls-1 {
+        stroke-miterlimit: 4;
+        stroke-width: 1px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #424e53;
+      }
+
+      .cls-4 {
+        mask: url(#mask);
+      }
+
+      .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        stroke-width: 4px;
+      }
+
+      .cls-6 {
+        mask: url(#mask-1);
+      }
+    </style>
+    <mask
+       id="mask"
+       x="17.5"
+       y="18.5"
+       width="271.99"
+       height="271.99"
+       maskUnits="userSpaceOnUse">
+      <g
+         id="mask-2">
+        <circle
+           id="path-1"
+           class="cls-5"
+           cx="153.5"
+           cy="154.5"
+           r="136" />
+      </g>
+    </mask>
+    <mask
+       id="mask-1"
+       x="40.67"
+       y="33.99"
+       width="228.15"
+       height="236.59"
+       maskUnits="userSpaceOnUse">
+      <g
+         id="mask-4">
+        <circle
+           id="path-3"
+           class="cls-5"
+           cx="154.5"
+           cy="153.5"
+           r="100.34" />
+      </g>
+    </mask>
+  </defs>
+  <g
+     id="Page-1">
+    <g
+       id="Desktop">
+      <g
+         id="work-images">
+        <g
+           id="Group-5">
+          <g
+             id="Group-4">
+            <rect
+               id="Rectangle"
+               class="cls-5"
+               width="307"
+               height="307" />
+          </g>
+        </g>
+        <g
+           id="Server-Icon-Circle">
+          <circle
+             id="Oval-Copy"
+             class="cls-3"
+             cx="153.5"
+             cy="154.5"
+             r="133" />
+          <g
+             id="X">
+            <g
+               class="cls-4"
+               mask="url(#mask)"
+               id="g18">
+              <path
+                 class="cls-5"
+                 d="m234.24,285.5c14.97,0,25.84-10.17,25.84-24.27,0-7.14-2.14-13.21-7.13-19.63l-64.88-87.63v-1.25l66.84-89.42c5.17-6.6,7.13-12.31,7.13-19.28,0-12.85-12.12-23.02-26.2-23.02-10.34,0-15.68,3.93-21.92,13.21l-56.86,83.17h-1.43l-55.08-81.39c-6.95-10.53-14.08-14.99-24.24-14.99-15.68,0-27.27,10.71-27.27,25.34,0,6.96,1.96,12.85,7.84,20.7l62.03,84.6v1.43l-64.17,89.6c-5.17,7.14-7.31,12.85-7.31,19.45,0,13.03,11.23,23.38,25.49,23.38,10.16,0,15.86-3.39,22.64-13.21l56.5-80.32h1.43l57.39,80.14c6.95,9.46,13.55,13.39,23.35,13.39Z"
+                 id="path16" />
+            </g>
+          </g>
+        </g>
+        <g
+           id="Server-Icon-Circle-2"
+           data-name="Server-Icon-Circle">
+          <circle
+             id="Oval-Copy-2"
+             data-name="Oval-Copy"
+             class="cls-1"
+             cx="154.5"
+             cy="153.5"
+             r="98" />
+          <g
+             id="X-2"
+             data-name="X">
+            <g
+               class="cls-6"
+               mask="url(#mask-1)"
+               id="g25">
+              <path
+                 class="cls-5"
+                 d="m260.95,192.99c8.7-6.8,10.41-17.65,4-25.85-3.24-4.15-7.24-6.71-13.06-8.18l-77.53-21.48-.57-.73-1.76-82.35c0-6.19-1.45-10.4-4.61-14.45-5.84-7.47-17.51-7.88-25.69-1.48-6.01,4.7-7.34,9.41-6.75,17.64l4.72,74.18-.83.65-68.99-22.3c-8.82-2.96-15-2.32-20.9,2.29-9.12,7.12-10.99,18.61-4.34,27.12,3.16,4.05,6.98,6.58,13.96,8.47l74.49,21.01.65.83,3.39,81.24c.24,6.5,1.59,10.79,4.59,14.63,5.92,7.58,17.15,8.49,25.44,2.02,5.91-4.61,7.68-9.18,7.16-17.96l-3.63-72.36.83-.65,69.77,20.52c8.34,2.34,13.96,1.63,19.66-2.82Z"
+                 id="path23" />
+            </g>
+          </g>
+        </g>
+        <circle
+           id="Oval"
+           class="cls-2"
+           cx="153.5"
+           cy="154.5"
+           r="134.5" />
+      </g>
+    </g>
+  </g>
+  <image
+     width="142.10143"
+     height="85.734528"
+     preserveAspectRatio="none"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAAC1CAMAAADSvTJ4AAAC91BMVEVHcEwAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AABtnGycAAAA/XRSTlMADxQKOQROFUw6NmkXkA6YN393ULQCI9gkz2WjaPIRNP9LEOyavOMGhE2A
+9csBB9L8JqFqbbU+7RsZ5li+peJcSDH2lNnXsP1+gckqzXCgu27vHvteqV2ZMtoLsYjOBfkv7nVJ
+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
+xcIFaLMAAAAASUVORK5CYII=
+"
+     id="image138"
+     x="83.633026"
+     y="107.76358" />
+</svg>
