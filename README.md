@@ -9,7 +9,7 @@ A containerized Next.js environment. Deploy it anywhere, or with one-click on AW
 Ensure you have docker installed, and simply run:
 
 ```bash
-docker compose up
+docker compose up --build
 ```
 
 This will begin the next.js server on PORT 80 of your localhost. You can change the port mapping in `docker-compose.yml`. Outside of docker you can also run the next `app` with `npm`
